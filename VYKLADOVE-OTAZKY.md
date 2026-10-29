@@ -77,7 +77,6 @@ Rozdělení kompetencí: ministerstvo rozhoduje o statusu, vede registr, kontrol
 
 **Místní opora.** [systematická mapa právních modalit](PRAVNI-MODALITY.md); [Povinnosti, zákazy, dovolení, oprávnění a kompetence](HLOUBKOVY-VYKLAD.md); [§ 2, § 4, § 11 — kapitola 1](01-integracni-socialni-podnik-status-registr.md); [§ 17, § 23, § 34 — kapitola 2](02-integracni-fond-prispevky-kontrola-prestupky.md)
 
-
 ## 5. Jaký procesní sled, forma, okamžik a lhůta rozhodují?
 
 **Odpověď pro tento komentář.**
